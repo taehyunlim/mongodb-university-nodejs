@@ -1,0 +1,11 @@
+{
+  "name": "mongodb_for_nodejs_week1",
+  "version": "1.0.0",
+  "description": "Using the MongoDB drier together with route hanlding and templates",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Tae Lim",
+  "license": "ISC"
+}
