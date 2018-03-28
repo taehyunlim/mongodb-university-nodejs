@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Using the MongoDB drier together with route hanlding and templates",
   "main": "app.js",
+  "dependencies": {
+    "consolidate": "~0.13.1",
+    "express": "~4.13.3",
+    "mongodb": "~2.1.3",
+    "nunjucks": "~2.2.0"
+  },
   "scripts": {
     "test": "node app.js"
   },
