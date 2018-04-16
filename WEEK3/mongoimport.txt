@@ -1,0 +1,2 @@
+$less companies.json
+$mongoimport -d crunchbase -c companies companies.json
